@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   
-  I am <b>Abdullah Sharifi</b>, a Full-Stack Junior Web Developer.
+  I am a Full-Stack Junior Web Developer.
   
   A developer With a range of skills spanning from <strong>front-end</strong> to <strong>back-end</strong>. 
 
