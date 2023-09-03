@@ -1,7 +1,7 @@
 ## Hey there 👋, I'm Abdullah Sharifi!
 <div align="right">
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ab-sharifi21&color=00BFB2)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ab-sharifi21&color=48bd67)
 
 </div>
 <br />
@@ -13,7 +13,7 @@
 
   <br/>
 
-  [<img src="https://img.shields.io/badge/-Abdul_Sharifi-blue?style=flat-square&logo=Linkedin&logoColor=white&color=00BFB2&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
+  [<img src="https://img.shields.io/badge/-Abdul_Sharifi-blue?style=flat-square&logo=Linkedin&logoColor=white&color=48bd67&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
 
 </div>
 
