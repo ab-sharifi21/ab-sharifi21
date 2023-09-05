@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Abdullah Sharifi!
+<div align="center"><h1>Hey there 👋, I'm Abdullah Sharifi!</h1></div>
 <div align="right">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ab-sharifi21&color=48bd67)
