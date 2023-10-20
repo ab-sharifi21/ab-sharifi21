@@ -19,9 +19,9 @@
 
 <br/>
 
-- 💼 Currently working on small projects with JavaScript, Node.js, React...
-- ⌨️ Learning React 
-- ❤️ I love learning new programming languages and frameworks
+- 💼 Currently working on a small project, a multi-player tic-tac-toe, with JavaScript vanilla... 
+- ⌨️ Working on my portfolio with React...
+- ❤️ I love challanges and learning new progrmaming languages and frameworks
 - 🖥️ I am interested in collaborating in new projects
 
 <br/>
