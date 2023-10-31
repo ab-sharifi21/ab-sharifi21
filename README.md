@@ -20,7 +20,7 @@
 <br/>
 
 - 💼 Currently working on a small project, a multi-player tic-tac-toe, with JavaScript vanilla... 
-- ⌨️ Working on my portfolio with React...
+- ⌨️ I did my personal portfolio with react recently.
 - ❤️ I love challanges and learning new progrmaming languages and frameworks
 - 🖥️ I am interested in collaborating in new projects
 
