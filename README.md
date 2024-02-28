@@ -20,7 +20,7 @@
 
 <br/>
 
-- ⌨️ Haciendo las Prácticas del Certificado de Professionalidad Desarrollo de Apliciones con Tecnologías Web (IFCD0210) en [Instituto Galego de Física de Altas Enerxías](https://igfae.usc.es/igfae/)
+- 💻 Currently doing the Practices of the Professional Certificate in Application Development with Web Technologies (IFCD0210) at the [Galician Institute of High Energy Physics](https://igfae.usc.es/igfae/)
 - 💼 Currently working at Plexus Tech as an **Assistant Programmer**
 - ⌨️ Learning Next.js and testing 
 - ❤️ I love learning new programming languages and frameworks
