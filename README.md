@@ -1,5 +1,4 @@
-## Hey there 👋, I'm Abdullah Sharifi!
-<div align="right">
+<div align="left">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ab-sharifi21&color=48bd67)
 
@@ -7,24 +6,27 @@
 <br />
 <div align="center">
   
-  I am a Full-Stack Junior Web Developer.
-  
-  A developer With a range of skills spanning from <strong>front-end</strong> to <strong>back-end</strong>. 
+ <h1 style="color: #4db5ff;">Hey there 👋, I'm Abdullah Sharifi</h1>
+
+ <p><b>A Full Stack Web Developer</b></p>
+ 
+ <p>I am a highly motivated junior web developer with a range of skills spanning from front-end to back-end.</p>
 
   <br/>
 
-  [<img src="https://img.shields.io/badge/-Abdul_Sharifi-blue?style=flat-square&logo=Linkedin&logoColor=white&color=48bd67&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
-  [<img src="https://img.shields.io/badge/-Porfolio-blue?style=flat-square&logo=googlechrome&logoColor=white&color=48bd67&link=https://abdullah-sharifi.netlify.app/)">](https://abdullah-sharifi.netlify.app/)
+[<img src="https://img.shields.io/badge/-Abdul_Sharifi-blue?style=flat-square&logo=Linkedin&logoColor=white&color=48bd67&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
+[<img src="https://img.shields.io/badge/-Porfolio-blue?style=flat-square&logo=googlechrome&logoColor=white&color=48bd67&link=https://abdullah-sharifi.netlify.app/)">](https://abdullah-sharifi.netlify.app/)
 
 </div>
 
 <br/>
 
-- 💼 Currently working at **Plexus Tech** as an **Assistant Programmer**
-- 💻 Currently doing the Practices of the Professional Certificate in Application Development with Web Technologies (IFCD0210) at the [Galician Institute of High Energy Physics](https://igfae.usc.es/igfae/) ([IGFAE](https://igfae.usc.es/igfae/))
-- ⌨️ Learning Next.js and testing 
-- ❤️ I love learning new programming languages and frameworks
-- 🖥️ I am interested in collaborating in new projects
+- <p style="font-size: 1rem;">💼 Currently working at <i><a href="https://www.plexus.es/">Plexus Tech</a></i> as an <b>Assistant Programmer</b> </p>
+- <p>💻 Did the Practices of the Professional Certificate in Application Development with Web Technologies (<i>IFCD0210</i>) at the <a href="https://igfae.usc.es/igfae/"> Galician Institute of High Energy Physics </a> (<a href="https://igfae.usc.es/igfae/">IGFAE</a>)</p>
+- <p>Read more about my experience at IGFAE <a href="https://igfae.usc.es/igfae/abdullahs-experience-at-the-igfae-three-weeks-of-work-to-improve-the-centres-internal-organisation/">here</a></p>
+- <p>⌨️ Learning Next.js ...</p>
+- <p>❤️ I love learning new programming languages and frameworks</p>
+- <p>🖥️ I am interested in collaborating in new projects</p>
 
 <br/>
 
