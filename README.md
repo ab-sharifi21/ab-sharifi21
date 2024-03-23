@@ -21,9 +21,9 @@
 
 <br/>
 
-- <p style="font-size: 1rem;">💼 Currently working at <i><a href="https://www.plexus.es/">Plexus Tech</a></i> as an <b>Assistant Programmer</b> </p>
-- <p>💻 Did the Practices of the Professional Certificate in Application Development with Web Technologies (<i>IFCD0210</i>) at the <a href="https://igfae.usc.es/igfae/"> Galician Institute of High Energy Physics </a> (<a href="https://igfae.usc.es/igfae/">IGFAE</a>)</p>
-- <p>Read more about my experience at IGFAE <a href="https://igfae.usc.es/igfae/abdullahs-experience-at-the-igfae-three-weeks-of-work-to-improve-the-centres-internal-organisation/">here</a></p>
+- <p style="font-size: 1rem;">💼 Currently working at <i><a target="_blank" href="https://www.plexus.es/">Plexus Tech</a></i> as an <b>Assistant Programmer</b> </p>
+- <p>💻 Did the Practices of the Professional Certificate in Application Development with Web Technologies (<i>IFCD0210</i>) at the <a target="_blank" href="https://igfae.usc.es/igfae/"> Galician Institute of High Energy Physics </a> (<a target="_blank" href="https://igfae.usc.es/igfae/">IGFAE</a>)</p>
+- <p>Read more about my experience at IGFAE <a target="_blank" href="https://igfae.usc.es/igfae/es/la-experiencia-de-abdullah-en-el-igfae-tres-semanas-de-trabajo-para-mejorar-la-organizacion-interna-del-centro/">here</a></p>
 - <p>⌨️ Learning Next.js ...</p>
 - <p>❤️ I love learning new programming languages and frameworks</p>
 - <p>🖥️ I am interested in collaborating in new projects</p>
