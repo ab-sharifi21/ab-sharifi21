@@ -1,29 +1,34 @@
-## Hey there 👋, I'm Abdullah Sharifi!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Abdullah+Sharifi!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 <div align="right">
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ab-sharifi21&color=48bd67)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ab-sharifi21&color=34aee4)
 
 </div>
+
 <br />
 <div align="center">
   
-  I am a Full-Stack Junior Web Developer.
-  
-  A developer With a range of skills spanning from <strong>front-end</strong> to <strong>back-end</strong>. 
+  I am a <b>Full-Stack Web Developer</b>
+  <br/>
+  Currently working at <b><a target="_blank" href="https://www.plexus.es/">Plexus Tech</a></b> as a <b>Front-End Developer</b>
 
   <br/>
 
-  [<img src="https://img.shields.io/badge/-Abdul_Sharifi-blue?style=flat-square&logo=Linkedin&logoColor=white&color=48bd67&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
-  [<img src="https://img.shields.io/badge/-Porfolio-blue?style=flat-square&logo=googlechrome&logoColor=white&color=48bd67&link=https://abdullah-sharifi.netlify.app/)">](https://abdullah-sharifi.netlify.app/)
+[<img src="https://img.shields.io/badge/-Abdul_Sharifi-blue?style=flat-square&logo=Linkedin&logoColor=white&color=34aee4&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
+[<img src="https://img.shields.io/badge/-Porfolio-blue?style=flat-square&logo=googlechrome&logoColor=white&color=34aee4&link=https://abdullah-sharifi.netlify.app/)">](https://abdullah-sharifi.vercel.app/)
 
 </div>
 
-<br/>
+## Status
 
-- 💼 Currently working at Plexus Tech as an **Assistant Programmer**
-- ⌨️ Learning Next.js and testing 
-- ❤️ I love learning new programming languages and frameworks
-- 🖥️ I am interested in collaborating in new projects
+👩‍💻 I'm working on my small personal projects.
+
+🧠 Learning **TypeScript and Next.js** in depth.
+
+👯‍♀️ I'm open to collaborate on any project, especially on those using **React or JS**.
+
+⚒️ Did the intership of the Professional Certificate in Application Development with Web Technologies (<i>IFCD0210</i>) at the <a target="_blank" href="https://igfae.usc.es/igfae/es/la-experiencia-de-abdullah-en-el-igfae-tres-semanas-de-trabajo-para-mejorar-la-organizacion-interna-del-centro/"> Galician Institute of High Energy Physics </a> (<a target="_blank" href="https://igfae.usc.es/igfae/es/la-experiencia-de-abdullah-en-el-igfae-tres-semanas-de-trabajo-para-mejorar-la-organizacion-interna-del-centro/">IGFAE</a>)
 
 <br/>
 
