@@ -15,7 +15,7 @@
 
   <br/>
 
-[<img src="https://img.shields.io/badge/-Abdul_Sharifi-blue?style=flat-square&logo=Linkedin&logoColor=white&color=34aee4&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=34aee4&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
 [<img src="https://img.shields.io/badge/-Porfolio-blue?style=flat-square&logo=googlechrome&logoColor=white&color=34aee4&link=https://abdullah-sharifi.netlify.app/)">](https://abdullah-sharifi.vercel.app/)
 
 </div>
