@@ -11,7 +11,7 @@
   
   I am a <b>Full-Stack Web Developer</b>
   <br/>
-  Currently working at <b><a target="_blank" href="https://www.plexus.es/">Plexus Tech</a></b> as a <b>Front-End Developer</b>
+  With nearly one year of experience at <b><a target="_blank" href="https://www.plexus.es/">Plexus Tech</a></b> as a <b>Front-End Developer</b>
 
   <br/>
 
@@ -24,7 +24,7 @@
 
 👩‍💻 I'm working on my small personal projects.
 
-🧠 Learning **TypeScript and Next.js** in depth.
+🧠 Learning **Angular and Next.js** in depth.
 
 👯‍♀️ I'm open to collaborate on any project, especially on those using **React or JS**.
 
