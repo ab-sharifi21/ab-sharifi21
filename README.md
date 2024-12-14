@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Abdullah+Sharifi!+%F0%9F%91%8B)](https://git.io/typing-svg)
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah
 
 <div align="right">
 
@@ -11,7 +11,7 @@
   
   I am a <b>Full-Stack Web Developer</b>
   <br/>
-  With nearly one year of experience at <b><a target="_blank" href="https://www.plexus.es/">Plexus Tech</a></b> as a <b>Front-End Developer</b>
+  With one year of experience at <b><a target="_blank" href="https://www.plexus.es/">Plexus Tech</a></b> as a <b>Front-End Developer</b>
 
   <br/>
 
