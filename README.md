@@ -1,36 +1,30 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah
+
 
 <div align="right">
-
+  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ab-sharifi21&color=34aee4)
 
 </div>
 
-<br />
-<div align="center">
-  
-  I am a <b>Full-Stack Web Developer</b>
-  <br/>
-  With one year of experience at <b><a target="_blank" href="https://www.plexus.es/">Plexus Tech</a></b> as a <b>Front-End Developer</b>
 
-  <br/>
+  Hi 👋 My name is Abdullah
+=========================
 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=34aee4&link=https://www.linkedin.com/in/abdullahsharifi/)">](https://www.linkedin.com/in/abdullahsharifi/)
-[<img src="https://img.shields.io/badge/-Porfolio-blue?style=flat-square&logo=googlechrome&logoColor=white&color=34aee4&link=https://abdullah-sharifi.netlify.app/)">](https://abdullah-sharifi.vercel.app/)
+Full-Stack Web Developer
+------------------------
 
-</div>
+I have one year of experience at Plexus Tech as a Front-End Developer
 
-## Status
+* 🖥️  See my portfolio at [here](http://abdullah-sharifi.vercel.app/)
+* ✉️  You can contact me at [ab.sharifi19@gmail.com](mailto:ab.sharifi19@gmail.com)
+* 🚀  I'm currently working on [Watchly](http://https://watchly-app.vercel.app/) & [Adventjs](https://github.com/ab-sharifi21/adventjs-solutions)
+* 🧠  I'm learning <b>Angular</b> and <b>Next.js</b>
+* 🤝  I'm open to collaborating on interesting projects
+* 🥊  Taekwondo black belt and gym lover 🥋🏃‍➡️
 
-👩‍💻 I'm working on my small personal projects.
 
-🧠 Learning **Angular and Next.js** in depth.
 
-👯‍♀️ I'm open to collaborate on any project, especially on those using **React or JS**.
 
-⚒️ Did the intership of the Professional Certificate in Application Development with Web Technologies (<i>IFCD0210</i>) at the <a target="_blank" href="https://igfae.usc.es/igfae/es/la-experiencia-de-abdullah-en-el-igfae-tres-semanas-de-trabajo-para-mejorar-la-organizacion-interna-del-centro/"> Galician Institute of High Energy Physics </a> (<a target="_blank" href="https://igfae.usc.es/igfae/es/la-experiencia-de-abdullah-en-el-igfae-tres-semanas-de-trabajo-para-mejorar-la-organizacion-interna-del-centro/">IGFAE</a>)
-
-<br/>
 
 <div align="center">
 
