@@ -10,7 +10,7 @@
   Hi 👋 My name is Abdullah
 =========================
 
-Full-Stack Web Developer
+Full-Stack Web Developer 🌐
 ------------------------
 
 I have one year of experience at Plexus Tech as a Front-End Developer
