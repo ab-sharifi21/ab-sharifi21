@@ -18,7 +18,7 @@ I have one year of experience at Plexus Tech as a Front-End Developer
 * 🖥️  See my portfolio at [here](http://abdullah-sharifi.vercel.app/)
 * ✉️  You can contact me at [ab.sharifi19@gmail.com](mailto:ab.sharifi19@gmail.com)
 * 🚀  I'm currently working on [Watchly](http://https://watchly-app.vercel.app/) & [Adventjs](https://github.com/ab-sharifi21/adventjs-solutions)
-* 🧠  I'm learning <b>Angular</b> and <b>Next.js</b>
+* 🧠  I'm learning <b>Angular</b> and <b>Java</b>
 * 🤝  I'm open to collaborating on interesting projects
 * 🥊  Taekwondo black belt and gym lover 🥋🏃‍➡️
 
