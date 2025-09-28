@@ -13,14 +13,13 @@
 Full-Stack Web Developer 🌐
 ------------------------
 
-I have one year of experience at Plexus Tech as a Front-End Developer
+I have almost two years of experience as a front-end developer at Altia Consulting and Plexus Tech.
 
 * 🖥️  See my portfolio at [here](http://abdullah-sharifi.vercel.app/)
-* ✉️  You can contact me at [ab.sharifi19@gmail.com](mailto:ab.sharifi19@gmail.com)
 * 🚀  I'm currently working on [Watchly](http://https://watchly-app.vercel.app/) & [Adventjs](https://github.com/ab-sharifi21/adventjs-solutions)
-* 🧠  I'm learning <b>Angular</b> and <b>Java</b>
+* 🧠  I'm learning and <b>Java</b> and backend technologies 
 * 🤝  I'm open to collaborating on interesting projects
-* 🥊  Taekwondo black belt and gym lover 🥋🏃‍➡️
+* 🥊  Taekwondo black belt and hyrox competitor 🥋🏃‍➡️
 
 
 
