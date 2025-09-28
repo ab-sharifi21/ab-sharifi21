@@ -17,7 +17,7 @@ I have almost two years of experience as a front-end developer at Altia Consulti
 
 * 🖥️  See my portfolio at [here](http://abdullah-sharifi.vercel.app/)
 * 🚀  I'm currently working on [Watchly](http://https://watchly-app.vercel.app/) & [Adventjs](https://github.com/ab-sharifi21/adventjs-solutions)
-* 🧠  I'm learning and <b>Java</b> and backend technologies 
+* 🧠  I'm learning <b>Java</b> and backend technologies 
 * 🤝  I'm open to collaborating on interesting projects
 * 🥊  Taekwondo black belt and hyrox competitor 🥋🏃‍➡️
 
